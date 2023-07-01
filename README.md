@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-API Project for FCC using Nodejs with Express.
+API Project for FCC using NodeJS with Express.
 
 View: <a href="https://boilerplate-project-timestamp--nivwer.repl.co/">https://boilerplate-project-timestamp--nivwer.repl.co/</a>
 
